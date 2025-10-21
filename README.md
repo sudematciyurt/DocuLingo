@@ -57,7 +57,7 @@ Herhangi bir hazır veri seti doğrudan kullanılmamıştır.
 ##  Kullanılan Teknolojiler
 
 - **Backend:** Python  
-- **Arayüz:** Gradio (Colab uyumlu) (https://0834cedf069ce7914d.gradio.live)
+- **Arayüz:** Gradio (Colab uyumlu) (https://5fcca8e405fe3da572.gradio.live/)
 - **Yapay Zekâ:** Google Gemini 2.0 Flash, LangChain  
 - **Embedding:** HuggingFace Sentence Transformers  
 - **Vektör Veritabanı:** Chroma  
