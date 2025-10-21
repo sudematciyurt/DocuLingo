@@ -1,7 +1,7 @@
 #  DocuLingo
 
 **DocuLingo**, yapay zekâ destekli, iki dilli (Türkçe – İngilizce) belge özetleme ve soru-cevap uygulamasıdır.  
-Kullanıcılar, yükledikleri **Türkçe veya İngilizce PDF dosyalarının** özetini çıkarabilir ve içerikle ilgili sorular sorabilirler.  
+Kullanıcılar, yükledikleri **Türkçe veya İngilizce PDF dosyalarını** Türkçe->İngilizce veya İngilizce->Türkçe'ye çevirerek özetini çıkarabilir ve içerikle ilgili sorular sorabilirler.  
 Uygulama, **RAG (Retrieval-Augmented Generation)** mimarisiyle çalışır ve metinleri anlamlı parçalara bölüp vektör veritabanında depolayarak **bağlama dayalı yanıtlar** üretir.
 
 DocuLingo, uzun akademik veya teknik metinleri hızlıca anlamak isteyen öğrenciler, araştırmacılar ve profesyoneller için geliştirilmiştir.  
@@ -42,6 +42,17 @@ Uygulama eksiksiz bir **Retrieval-Augmented Generation** sürecini izler:
   - Öğrenciler ve araştırmacılar için hızlı içerik analizi  
 
 ---
+
+## Veri Seti Açıklaması
+- Bu proje hazır bir veri seti yerine, kullanıcı tarafından yüklenen PDF belgelerini dinamik olarak işlemektedir.
+Kullanıcı, sistem üzerinden İngilizce veya Türkçe içerikli bir PDF yükler. Bu dosya, model tarafından metne dönüştürülür, özetlenir ve vektör veritabanına aktarılır.
+Bu yaklaşım, proje kapsamında “dinamik veri üretimi” olarak değerlendirilmiştir.
+
+- Proje geliştirilirken “Paper-Bold” adlı açık kaynak projesinden teknik mimari açısından ilham alınmıştır, ancak tüm kodlar DocuLingo için yeniden uyarlanmış ve özelleştirilmiştir.
+Herhangi bir hazır veri seti doğrudan kullanılmamıştır.
+
+---
+
 
 ##  Kullanılan Teknolojiler
 
