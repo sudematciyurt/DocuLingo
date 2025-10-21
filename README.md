@@ -76,5 +76,5 @@ Uygulama eksiksiz bir **Retrieval-Augmented Generation** sürecini izler:
 4. Uygulamayı başlat
    ```
    Not defterindeki ilgili hücreleri sırayla çalıştırın.
-   Gradio arayüz bağlantısı çıktı olarak görünecektir(https://colab.research.google.com/drive/1vQ8u4DpybGBgLwr_iRNgduP-UHQ7IMYF?usp=sharing)
+   Gradio arayüz bağlantısı çıktı olarak görünecektir (https://colab.research.google.com/drive/1vQ8u4DpybGBgLwr_iRNgduP-UHQ7IMYF?usp=sharing)
    ```
