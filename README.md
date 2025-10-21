@@ -57,7 +57,7 @@ Herhangi bir hazır veri seti doğrudan kullanılmamıştır.
 ##  Kullanılan Teknolojiler
 
 - **Backend:** Python  
-- **Arayüz:** Gradio (Colab uyumlu)  
+- **Arayüz:** Gradio (Colab uyumlu) (https://0834cedf069ce7914d.gradio.live)
 - **Yapay Zekâ:** Google Gemini 2.0 Flash, LangChain  
 - **Embedding:** HuggingFace Sentence Transformers  
 - **Vektör Veritabanı:** Chroma  
@@ -87,5 +87,5 @@ Herhangi bir hazır veri seti doğrudan kullanılmamıştır.
 4. Uygulamayı başlat
    ```
    Not defterindeki ilgili hücreleri sırayla çalıştırın.
-   Gradio arayüz bağlantısı çıktı olarak görünecektir (https://colab.research.google.com/drive/1vQ8u4DpybGBgLwr_iRNgduP-UHQ7IMYF?usp=sharing)
+   Gradio arayüz bağlantısı çıktı olarak görünecektir (Running on public URL: https://14a15b37b26c95a33e.gradio.live)
    ```
